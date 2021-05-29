@@ -395,7 +395,7 @@
 					<Keyword>group˸shp˸˸˸//github.com/tiagobasilio02/Mappia_Example/releases/download/Map_Download/rj_municipios_2020.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-44.889320551" miny="-23.368931962" maxx="-40.95794091600004" maxy="-20.763205460999963"></LatLonBoundingBox>
+				<LatLonBoundingBox minx="-135.2356175778926" miny="-85.52574913990192" maxx="-135.23531746313066" maxy="-85.52571393756362"></LatLonBoundingBox>
 				<BoundingBox SRS="EPSG:4326" minx="-44.889320551" miny="-23.368931962" maxx="-40.957940916" maxy="-20.763205461"></BoundingBox>
 				<Style>
 					<Name>1</Name>
